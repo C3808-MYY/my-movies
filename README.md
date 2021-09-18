@@ -1,3 +1,7 @@
+You can visit that page 
+https://c3808-myy.github.io/my-movies/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
